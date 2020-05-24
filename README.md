@@ -8,7 +8,9 @@ https://news.ycombinator.com/item?id=23279837&p=2
  	
 	Tell HN: Interviewed with Triplebyte? Your profile is about to become public
 	1228 points by winston_smith 1 day ago | unvote | hide | past | web | favorite | 506 comments
-	Fortunately this email made it through my spam filter. Looks like they want to take on LinkedIn and are planning to seed it by making existing accounts public unless you opt OUT within the next week:
+	Fortunately this email made it through my spam filter. Looks like they
+	want to take on LinkedIn and are planning to seed it by making existing
+	accounts public unless you opt OUT within the next week:
 
 Hey [redacted],
 
